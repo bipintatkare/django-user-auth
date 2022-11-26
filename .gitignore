@@ -1,0 +1,5 @@
+db.sqlite3
+app/__pycache__
+app/migrations
+django_auth/__pycache__
+.env
